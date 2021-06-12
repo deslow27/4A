@@ -1,1 +1,2 @@
-# 4A
+Jawaban soal 4A
+aplikasi menggunakan SQL server
